@@ -70,7 +70,7 @@ Prerequisites
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/gemini-rag-app.git # Replace with your actual repo URL
+git clone https://github.com/kavyasri-12/gemini-rag-app.git # Replace with your actual repo URL
 cd gemini-rag-app
 
 2. Set up Environment Variables
